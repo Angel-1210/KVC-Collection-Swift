@@ -22,7 +22,7 @@ class Project : NSObject {
     //MARK: Memory Management 
     
     deinit {
-        
+        //unused variable
     }
     
     //------------------------------------------------------
